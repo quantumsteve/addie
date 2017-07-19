@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'designer/ui_mainWindow_no_scroll_bars.ui'
 #
-# Created: Tue May  2 09:12:39 2017
+# Created: Tue May  2 09:50:52 2017
 #      by: PyQt4 UI code generator 4.10.1
 #
 # WARNING! All changes made in this file will be lost!

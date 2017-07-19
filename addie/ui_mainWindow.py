@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'designer/ui_mainWindow.ui'
 #
-# Created: Tue May  2 09:13:27 2017
+# Created: Tue May  2 09:50:52 2017
 #      by: PyQt4 UI code generator 4.10.1
 #
 # WARNING! All changes made in this file will be lost!
@@ -1737,7 +1737,7 @@ class Ui_MainWindow(object):
         self.actionCheat_sheet.setText(_translate("MainWindow", "Cheat sheet", None))
         self.actionAbout.setText(_translate("MainWindow", "About ...", None))
         self.action_preview_ascii.setText(_translate("MainWindow", "Preview Ascii ...", None))
-        self.actionAdvanced.setText(_translate("MainWindow", "Advanced ...", None))
+        self.actionAdvanced.setText(_translate("MainWindow", "Settings ...", None))
         self.actionSave_Configuration.setText(_translate("MainWindow", "Save Configuration ...", None))
         self.actionLoad.setText(_translate("MainWindow", "Load ...", None))
         self.actionSave.setText(_translate("MainWindow", "Save ...", None))
